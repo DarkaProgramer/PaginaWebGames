@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "id": 2,
+      "title": "OSU",
+      "description": "ES EL MEJOR JUEGO",
+      "image": "https://vrscout.com/wp-content/uploads/2020/11/Osu.jpg",
+      "created_at": "2023-06-19T16:25:04.075Z",
+      "srcId": "data"
+    },
+    {
+      "id": 3,
+      "title": "overcooked",
+      "description": "Juego de cocina",
+      "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_2.0/c_scale,w_400/ncom/software/switch/70010000003402/057249cf707a2a733c876c0eb453bb018ee6ea09f3aea5c350f4d76f70840d00",
+      "created_at": "2023-06-19T16:39:41.826Z",
+      "srcId": "data"
+    },
+    {
+      "id": 4,
+      "title": "brawhalla",
+      "description": "Juego tipo smash bros",
+      "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Brawlhalla.jpg",
+      "created_at": "2023-06-19T16:40:39.204Z",
+      "srcId": "data"
+    },
+    {
+      "id": "11",
+      "title": "Mario Kart",
+      "description": "Un juego de Carreras",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2022/03/mario-kart-8-deluxe-pase-pistas-extra.jpg?width=1200&aspect_ratio=16:9",
+      "created_at": "2023-06-21T14:19:52.894Z",
+      "srcId": "data"
+    }
+  ]
+}
